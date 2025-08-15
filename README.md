@@ -6,7 +6,7 @@
 
 <p align="center">
   I’m <strong>Mohamed Rashed</strong>, a passionate software developer who loves turning ideas into reality through code.  
-  I enjoy building applications across multiple domains — from interactive web experiences to robust backend systems,  
+  I enjoy building applications across multiple domains, from interactive web experiences to robust backend systems,  
   and even game development and 3D modeling.
 </p>
 
