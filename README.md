@@ -10,12 +10,14 @@
   and even game development and 3D modeling.
 </p>
 
-<p align="center">
-  🚀 Skilled in multiple programming languages and frameworks  
-  🎯 Always exploring new technologies and improving my skills  
-  💡 Problem solver with a focus on clean, maintainable code  
-  🤝 Open to collaborating on exciting projects and learning from others  
-</p>
+<ul align="center" style="list-style-position: inside; text-align: center;">
+  <li>Skilled in multiple programming languages and frameworks</li>
+  <li>Always exploring new technologies and improving my skills</li>
+  <li>Problem solver with a focus on clean, maintainable code</li>
+  <li>Open to collaborating on exciting projects and learning from others</li>
+  <li>Enjoy experimenting with Blender, game development, and 3D modeling</li>
+  <li>Constantly learning something new to learn new skills</li>
+</ul>
 
 <p align="center">
   When I’m not coding, you might find me experimenting with Blender, working on side projects,  
@@ -35,13 +37,6 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-
----
-
-<div align="center">
-  <img height="245" src="https://avatars.githubusercontent.com/u/183409372?v=4"  />
-</div>
-
 ---
 
 <div align="center">
