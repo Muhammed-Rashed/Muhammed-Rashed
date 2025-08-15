@@ -2,6 +2,28 @@
 
 ###
 
+<h2 align="center">👋 About Me</h2>
+
+<p align="center">
+  I’m <strong>Mohamed Rashed</strong>, a passionate software developer who loves turning ideas into reality through code.  
+  I enjoy building applications across multiple domains — from interactive web experiences to robust backend systems,  
+  and even game development and 3D modeling.
+</p>
+
+<p align="center">
+  🚀 Skilled in multiple programming languages and frameworks  
+  🎯 Always exploring new technologies and improving my skills  
+  💡 Problem solver with a focus on clean, maintainable code  
+  🤝 Open to collaborating on exciting projects and learning from others  
+</p>
+
+<p align="center">
+  When I’m not coding, you might find me experimenting with Blender, working on side projects,  
+  or learning something completely new to broaden my horizons.
+</p>
+
+###
+
 <div align="center">
   <a href="mohamed.rashedwork2005@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -98,3 +120,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammed-Rashed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Muhammed-Rashed&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammed-Rashed&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
