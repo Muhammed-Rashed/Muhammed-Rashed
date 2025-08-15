@@ -35,15 +35,6 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img height="245" src="https://avatars.githubusercontent.com/u/183409372?v=4"  />
-</div>
-
-###
-
 <br clear="both">
 
 <div align="center">
