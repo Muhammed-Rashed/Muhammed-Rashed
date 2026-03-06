@@ -16,7 +16,7 @@
   <li>Problem solver with a focus on clean, maintainable code</li>
   <li>Open to collaborating on exciting projects and learning from others</li>
   <li>Enjoy experimenting with Blender, game development, and 3D modeling</li>
-  <li>Constantly learning something new/li>
+  <li>Constantly learning something new</li>
 </ul>
 
 <p align="center">
