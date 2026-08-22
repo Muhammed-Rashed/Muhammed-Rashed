@@ -1,17 +1,27 @@
-<h2 align="center">Hi My name is Mohamed Rashid (MORAS)</h2>
+<h2 align="center">Hi My name is Mohamed Rashed</h2>
 
 ---
 
-<h2 align="center">About Me</h2>
+<h2 align="center">👋 About Me</h2>
 
 <p align="center">
-  A software developer who enjoy building applications across multiple domains, from interactive web experiences to robust backend systems,  
+  I’m <strong>Mohamed Rashed</strong>, a passionate software developer who loves turning ideas into reality through code.  
+  I enjoy building applications across multiple domains, from interactive web experiences to robust backend systems,  
   and even game development and 3D modeling.
 </p>
 
+<ul align="center" style="list-style-position: inside; text-align: center;">
+  <li>Skilled in multiple programming languages and frameworks</li>
+  <li>Always exploring new technologies and improving my skills</li>
+  <li>Problem solver with a focus on clean, maintainable code</li>
+  <li>Open to collaborating on exciting projects and learning from others</li>
+  <li>Enjoy experimenting with Blender, game development, and 3D modeling</li>
+  <li>Constantly learning something new</li>
+</ul>
+
 <p align="center">
   When I’m not coding, you might find me experimenting with Blender, working on side projects,  
-  or learning something completely new.
+  or learning something completely new to broaden my horizons.
 </p>
 
 ---
