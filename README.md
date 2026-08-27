@@ -109,7 +109,7 @@
 ---
 
 <div align="center">
-https://github-contribution-graph.ez4o.com/?username=Muhammed-Rashed&last_n_days=7&img_url=
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Rashed&theme=react-dark&hide_border=true" width="90%" alt="activity graph" />
 </div>
 
 ---
