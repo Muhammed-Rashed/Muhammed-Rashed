@@ -108,8 +108,13 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Rashed&theme=react-dark&hide_border=true" width="90%" alt="activity graph" />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHd6ZXZvZ2JsazM4c21kM2Rvc2I1OXllamgyODJhaWw3ajg4Z2g4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xWMPYx55WNhX136T0V/giphy.gif"  />
 </div>
 
 ---
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=Muhammed-Rashed&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/Muhammed-Rashed/Muhammed-Rashed/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
